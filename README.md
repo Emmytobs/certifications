@@ -1,6 +1,6 @@
 Here are a list of my certifications, awards, and badges earned from taking online coding programs and courses. 
 Each of them is arranged in order from the different issuing organizations. Where a link to the certificate is provided, that is only what will be displayed.
-Do note that more could be found on my [LinkedIn](https://www.linkedin.com/in/emmanuel-otobo-308205195)
+Do note that more can be found on my [LinkedIn](https://www.linkedin.com/in/emmanuel-otobo-308205195)
 
 # IBM
 As a participant in the IBM Digital Nations Africa [program](https://developer.ibm.com/digitalnation/africa), I have earned these badges:
